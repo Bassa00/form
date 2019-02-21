@@ -45,7 +45,7 @@ class App extends Component {
               </div>
               <div className='FormField'>
                 <button className='FormField-Button mr-20'>Sign Up</button>
-                <a href='./' className='FormField-Link'>I'm already a memeber</a>
+                <a href='./' className='FormField-Link'>I am already a memeber</a>
               </div>
             </form>
           </div>
